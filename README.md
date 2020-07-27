@@ -1,5 +1,6 @@
 # Example-Projects
-In this repository I upload projects that are examples of various coding, data science, and machine learning skills.
+Thank you for checking out my repository!
+In here, I upload projects that are examples of various coding, data science, and machine learning skills.
 
 For end-to-end projects, I suggest looking at NLP - Will a Given Bill Pass the Senate or water_main_breaks_project.
 
